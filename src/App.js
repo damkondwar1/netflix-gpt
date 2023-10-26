@@ -1,34 +1,16 @@
 
 import './App.css';
 import Body  from './component/Body';
-
+import {Provider} from "react-redux"
+import appstore from './utils/appstore';
 function App() {
   return (
     <div >
+      <Provider store={appstore}>
      <Body/>
+     </Provider>
     </div>
   );
 }
 
 export default App;
-
-/* 
-planning
-   features
-   login/signup page 
-   signin/signup form 
-   redirect to signin
-   browsepage(after authentication)
-      -header
-      -main movie
-        trailer in background
-         title description
-           -movie suggestion
-             -movielist *n
-
-    -netflixgpt
-     -search bar
-     -movie suggestion 
-     
-
-*/
