@@ -87,3 +87,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -implemented sing out
 -update profile
 -fetch movies from tmdb movies 
+-register tmdb api create app and get access 
+-use api and get data 
+-custom hook for new playing video
+-craete moviestate
+-update store with movie data
+-planning for maincontainer and secondary container
+-frtch data for trailer video
+-update store with trailer video data
+-embedded the youtube video and make it autoply and mute 
+-added tailwind classes to make main container look owsum
+
+
+
+--bug fixes
+-if the user is not login redirect to login page
+-if user is login redirect to browse page 
