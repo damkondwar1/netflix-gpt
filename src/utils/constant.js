@@ -9,3 +9,5 @@ headers: {
   Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMjlkZWM5ODNkODdhYzUwMmZmNWM3YzlhMGEyYzYxNSIsInN1YiI6IjY1M2JmZjgzMTA5Y2QwMDEyY2ZlODRhZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E0UKe6gox_VV1d_ZSwzvNe9_mfUxMcFw57g5MjIUfK0'
 }
 }
+
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500"
