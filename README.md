@@ -97,6 +97,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -update store with trailer video data
 -embedded the youtube video and make it autoply and mute 
 -added tailwind classes to make main container look owsum
+-gpt search page
+-gpt search bar
+-multilangual feature in our app
 
 
 
